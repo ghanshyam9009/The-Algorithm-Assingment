@@ -1,0 +1,15 @@
+# Ignore node dependencies
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore uploads folder (where files are stored)
+uploads/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
